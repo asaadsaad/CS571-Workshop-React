@@ -12,8 +12,8 @@ The buttons is to toggle (show/hide) the components above, only one component wi
 * Submit (button): When hitting submit button, email should be verified (to be unique) and saved in as global state and `LocalStorage`.
 
 `List Students`: To list all students.  
-Display a table that contains student names and emails (from state) with a button to delete every student.   
-Deleting a student will remove the student from state and `LocalStorage`.
+* Display a table that contains student names and emails (from state) with a button to delete every student.   
+* Deleting a student will remove the student from state and `LocalStorage`.
 
 Notes:
 * All data should be saved in a global state and `LocalStorage`. 
