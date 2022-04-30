@@ -19,7 +19,7 @@ The buttons is to toggle (show/hide) the components above, only one component wi
 **Notes:**
 * All components should be function-based.
 * All data should be saved in a global state and `LocalStorage`. The data should always be synched between `LocalStorate` and the global state.
-* The data should be loaded to global state from `LocalStorage` when users open the application. 
+* The data should be loaded to the global state from `LocalStorage` when users open the application. 
 * Use a Reducer function to manage your application state and write up all necessary actions.
 * Remember to respect the code honor submission policy. All written code must be original. Presenting any code as one’s own work when it came from another source is plagiarism.
 * This workshop will be graded. The deadline to submit your code is 5:00 PM.
