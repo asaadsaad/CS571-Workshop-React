@@ -1,8 +1,8 @@
 # CS571-Workshop-React
 Create a React application that shows first a text input to read the user fullname, once users submit their names they see a header and two buttons:
 * Header Component: Welcome {fullname} (to be displayed at all time)
-* Button: `List Students` Component (default)
-* Button: `Add New Student` Component  
+* Button: `List Students` component (default)
+* Button: `Add New Student` component  
   
 The buttons is to toggle (show/hide) the components above, only one component will be displayed at a time, the `List Students` component is displayed by default.
 
