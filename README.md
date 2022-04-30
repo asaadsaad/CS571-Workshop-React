@@ -10,7 +10,7 @@ The buttons is to toggle (show/hide) the components above, only one component wi
 * Name (Input) with the placeholder 'name'. 
 * Email (Input) with the placeholder 'email'. 
 * ID (text): It is a random number that is changed every 5 seconds.
-* Submit (button): When hitting the submit button, the email should be verified to be unique and saved in a global state and `LocalStorage`. After successful submission the application will switch to display `List Students` Component.
+* Submit (button): When hitting the submit button, the email should be verified to be unique and saved in a global state and `LocalStorage`. After successful submission the application will switch to display `List Students` component.
 
 `List Students`: To list all students.  
 * Display a table that contains student names and emails (from state) with a button to delete every student.   
