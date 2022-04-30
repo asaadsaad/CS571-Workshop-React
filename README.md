@@ -1,5 +1,5 @@
 # CS571-Workshop-React
-Create a React application that shows first a text input to read the user full name, once users submit their names they see a header and two buttons:
+Create a React application that shows first a text input to read the user fullname, once users submit their names they see a header and two buttons:
 * Header Component: Welcome {fullname} (to be displayed at all time)
 * Button: `List Students` (default)
 * Button: `Add New Student`
