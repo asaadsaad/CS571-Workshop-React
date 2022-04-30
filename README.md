@@ -1,4 +1,4 @@
-# CS571-Workshop-React
+# CS571 - Workshop - React Hooks
 Create a React application that shows first a text input to read the user fullname, once users submit their names they see a header and two buttons:
 * Header Component: Welcome {fullname} (to be displayed at all time)
 * Button: `List Students` component (default)
@@ -17,6 +17,7 @@ The buttons is to toggle (show/hide) the components above, only one component wi
 * Deleting a student will remove the student from state and `LocalStorage`.
 
 **Notes:**
+* All components should be function-based.
 * All data should be saved in a global state and `LocalStorage`. 
 * The data should be loaded to global state when users open the application. 
 * The data should always be synched between `LocalStorate` and the global state.
