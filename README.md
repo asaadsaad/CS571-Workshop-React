@@ -16,7 +16,7 @@ The buttons is to toggle (show/hide) the components above, only one component wi
 * Display a table that contains student names and emails (from state) with a button to delete every student.   
 * Deleting a student will remove the student from state and `LocalStorage`.
 
-Notes:
+**Notes:**
 * All data should be saved in a global state and `LocalStorage`. 
 * The data should be loaded to global state when users open the application. 
 * The data should always be synched between `LocalStorate` and the global state.
