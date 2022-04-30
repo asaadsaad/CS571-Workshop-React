@@ -3,6 +3,7 @@ Create a React application that shows first a text input to read the user fullna
 * Header Component: Welcome {fullname} (to be displayed at all time)
 * Button: `List Students` (default)
 * Button: `Add New Student`  
+  
 The buttons is to toggle (show/hide) the components above, only one component will be displayed at a time, the `List Students` component is displayed by default.
 
 `Add New Student`: This component has several fields as follows:
