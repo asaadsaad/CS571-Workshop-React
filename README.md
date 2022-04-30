@@ -21,7 +21,7 @@ The buttons is to toggle (show/hide) the components above, only one component wi
 * The data should be loaded to global state when users open the application. 
 * The data should always be synched between `LocalStorate` and the global state.
 * Use a Reducer function to manage your application state and write up all necessary actions.
-* Remember to respect the code honor submission policy. All written code must be original. 
+* Remember to respect the code honor submission policy. All written code must be original.Presenting any code as one’s own work when it came from another source is plagiarism.
 * The deadline to submit your code is 8:00 PM.
 
 *Optional: Create a backend app to persist the application data at the server.*
