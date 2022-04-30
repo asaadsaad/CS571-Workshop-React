@@ -5,11 +5,11 @@ Create a React application that shows first a text input to read the user fullna
 * Button: `Add New Student`
 The buttons is to toggle (show/hide) the components above, only one component will be displayed at a time, the `List Students` component is displayed by default.
 
-`List Students`: This component has several fields as follows:
+`Add New Student`: This component has several fields as follows:
 * Name (Input) with the placeholder 'name'. 
 * Email (Input) with the placeholder 'email'. 
 * ID (text): It is a random number that is changed every 5 seconds.
-* Submit (button): When hitting submit button, email should be verified to be unique and saved in a global state and `LocalStorage`.
+* Submit (button): When hitting submit button, email should be verified to be unique and saved in a global state and `LocalStorage`. After successful submission the application will switch to display `List Students` Component.
 
 `List Students`: To list all students.  
 * Display a table that contains student names and emails (from state) with a button to delete every student.   
